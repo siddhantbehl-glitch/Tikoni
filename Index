@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tikoni</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Tikoni</div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="products.html">Shop</a>
+            <a href="cart.html">Cart</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Among the Divine</h1>
+        <p>Black luxury jackets, minimalistic design</p>
+        <a href="products.html" class="btn">Shop Now</a>
+    </section>
+
+    <section class="featured-products">
+        <h2>Featured Jackets</h2>
+        <div class="product-grid">
+            <a href="product.html">
+                <img src="images/jacket1.jpg" alt="Jacket 1">
+                <h3>Elegance Black</h3>
+                <p>$250</p>
+            </a>
+            <a href="product.html">
+                <img src="images/jacket2.jpg" alt="Jacket 2">
+                <h3>Midnight Luxe</h3>
+                <p>$280</p>
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Tikoni. All rights reserved.</p>
+    </footer>
+</body>
+</html>
